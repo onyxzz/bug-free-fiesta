@@ -1,2 +1,2 @@
-# bug-free-fiesta
-AI Image Generation App (Dall-E Clone)
+# DALL-E Clone
+AI Image Generation App
